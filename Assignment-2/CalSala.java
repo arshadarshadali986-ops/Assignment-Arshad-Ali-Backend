@@ -15,7 +15,7 @@ class Employee {
     double bonusAmount = basicSala * 0.10;
     double totalSala = basicSala + bonusAmount;
 
-    System.out.println("Employee ID : " + employeeId);
+    System.out.println("Employee ID  :   " + employeeId);
     System.out.println("Basic Salary : ₹ " + basicSala);
     System.out.println("Bonus Amount : ₹ " + bonusAmount);
     System.out.println("Total Salary : ₹ " + totalSala);
